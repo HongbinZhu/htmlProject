@@ -1,0 +1,35 @@
+body
+{
+  background: radial-gradient(#ddd6f3, #faaca8);
+  font-family:Arial;
+  text-align:center;
+  font-size:1.6em;
+  position:relative;
+}
+
+img
+{
+  padding:10px;
+  
+}
+
+img:hover
+{
+  transform:scale(1.5);
+  transition:all 0.5s;
+}
+
+button
+{
+  height:80px;
+  width:150px;
+  font-size:25px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+p{
+  text-align: left;
+}
